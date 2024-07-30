@@ -1,0 +1,90 @@
+.page {
+    display: flex;
+    position: relative;
+    padding: 20px;
+    gap: 100px;
+    margin-top: 20px;
+}
+
+.left {
+    position: relative;
+    margin-top: 20px;
+}
+
+.right{
+    margin-left: 150px;
+}
+.header-top{
+   align-items: center;
+}
+
+.text2 {
+    display: flex;
+    position: relative;
+    
+}
+
+.buttons {
+    position: relative;
+    display: flex;
+   margin-left:300px;
+   width: 100%;
+   justify-content:space-around;
+}
+
+
+
+.history {
+    margin-top: 200px;
+    position: relative;
+}
+
+.pat {
+    display: flex;
+    position: relative;
+
+    padding: 30px;
+}
+
+.footer {
+    display: flex;
+    gap: 30px;
+    margin-top: 200px;
+}
+
+.container {
+    position: absolute;
+   left: 300px;
+    display: flex;
+    width: 70%;
+}
+
+.search {
+    height: 50px;
+    padding: 60px;
+    width: 50%;
+    position: relative;
+
+}
+
+.equal {
+    position: absolute;
+    font-size: 30px;
+    left: 50%;
+    
+}
+
+.icon {
+    font-size: 25px;
+    margin-top: 400px;
+}
+
+.menu-item {
+    margin-bottom: 18px;
+    font-size: 17px;
+    text-transform: lowercase;
+}
+
+.search-clear:active {
+    background-color: rgb(235, 235, 235);
+}

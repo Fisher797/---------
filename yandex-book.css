@@ -1,0 +1,372 @@
+.page {
+    position: relative;
+    
+
+}
+
+.sub {
+    display: flex;
+    margin: 20px;
+
+}
+
+.tag0 {
+    display: flex;
+    gap: 15px;
+}
+
+.tag {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.books1{
+    justify-content: center;
+    display: flex;
+    margin-top: 50px;
+    gap: 20px;
+}
+
+.bookmate1{
+    display: flex;
+    padding: 15px;
+    color: rgb(77, 77, 77);
+    background-color: rgb(233, 233, 233);
+    border-radius: 7px;
+    gap: 5px;
+}
+
+.bookmat{
+    display: inline-block;
+}
+
+.tag2 {
+    position: absolute;
+    background-color: rgb(164, 11, 202);
+    right: 70px;
+    border-radius: 12px;
+    color: rgb(255, 255, 255);
+    padding: 3px;
+}
+
+.tag3 {
+    position: absolute;
+    right: 14px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.tagfree {
+    text-align: center;
+}
+
+.yandex {
+    padding-top: 50px;
+    font-size: 20px;
+    gap: 20px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.books {
+    gap: 10px;
+    display: flex;
+    position: relative;
+    justify-content: center;
+}
+
+.images2 {
+    justify-content: center;
+    gap: 50px;
+
+    position: relative;
+}
+
+.images3 {
+    display: flex;
+    justify-content: center;
+    gap: 50px;
+}
+
+.wrap {
+    margin-top: 100px;
+    justify-content: center;
+}
+
+.yandex1 {
+    text-align: center;
+    font-size: 65px;
+    margin-top: 30px;
+    bottom: 0px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.background {
+    position: absolute;
+    z-index: -1;
+    top: -200px;
+    left: -200px;
+    right: -200px;
+
+}
+
+.wrapper {
+    position: relative;
+    overflow: hidden;
+
+}
+
+.images {
+    transform: rotate(10deg);
+    text-align: center;
+
+}
+
+.content {
+    background-color: rgba(255, 253, 253, 0.8);
+}
+
+.yandex2 {
+
+    color: rgb(11, 114, 231);
+    font-size: 50px;
+    margin-top: 20px;
+    position: relative;
+}
+
+.yandex4 {
+    width: 20%;
+    background-color: white;
+    border-color: rgb(148, 146, 146);
+}
+
+.tab {
+    display: flex;
+    margin-top: 50px
+}
+
+.tag4 {
+    color: rgb(110, 110, 110);
+    margin-left: 750px;
+    position: relative;
+}
+
+.tag5 {
+    position: absolute;
+    right: 30px;
+    display: flex;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+}
+
+.yand {
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    margin-top: 20px;
+    gap: 10px;
+
+}
+
+.yandex3 {
+    width: 20%;
+    border: 2px solid;
+    border-radius: 10px;
+    border-color: rgb(230, 14, 230);
+    background-color: white;
+}
+
+.book {
+
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.book1 {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+
+}
+
+.book2 {
+    color: rgb(167, 167, 167);
+}
+
+.yandex4 {
+    border: 2px solid;
+    border-radius: 10px;
+    border-color: rgb(168, 168, 168);
+}
+
+.free {
+    display: flex;
+    justify-content: center;
+
+}
+
+.imag {
+    justify-content: center;
+    top: 50px;
+    left: 400px;
+}
+
+.text {
+    font-size: 34px;
+    padding: 3px;
+
+    margin-top: 90px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.text2 {
+    padding: 6px;
+}
+
+.text5 {
+    text-align: center;
+    font-size: 12px;
+    margin-top: 12px;
+    color: rgb(143, 143, 143);
+}
+
+.ban {
+    position: relative;
+    margin-left: 120px;
+    border-radius: 20px;
+    
+    width: 80%;
+    display: flex;
+    font-family: var(--graphik-font);
+    justify-content: center;
+    margin-top: 100px;
+    background-color: rgb(240, 240, 240);
+}
+
+.play {
+    position: relative;
+
+    display: flex;
+    gap: 15px;
+    background-color: rgb(253, 253, 253);
+    border-radius: 10px;
+    padding: 2px;
+    justify-content: center;
+}
+
+.banner {
+    position: absolute;
+    text-align: center;
+    left: 100px;
+}
+
+.tex3 {}
+
+.play1 {
+    justify-content: center;
+    margin-top: 7px;
+    display: flex;
+    gap: 15px;
+    background-color: rgb(253, 253, 253);
+    border-radius: 10px;
+    padding: 2px;
+}
+
+.google {
+    gap: 10px;
+    right: 50px;
+    position: absolute;
+    top: 120px;
+}
+
+.img1 {
+    border-radius: 5px;
+    display: flex;
+}
+
+.imgn {
+    position: absolute;
+    right: 250px;
+    top: 120px;
+}
+
+.angl {
+    display: flex;
+    position: relative;
+
+}
+
+.caption {
+    position: absolute;
+    top: 90px;
+    color: white;
+    text-align: center;
+    font-size: 30px;
+    justify-content: center;
+    display: flex;
+    right: 40px;
+}
+
+.texta {
+    display: flex;
+    position: absolute;
+    z-index: 1;
+    color: rgb(231, 231, 231);
+    font-size: 30px;
+    width: 100%;
+}
+
+.texta1 {
+    position: absolute;
+    left: -250px;
+    top: -100px;
+    text-align: center;
+}
+
+.week {
+    font-size: 30px;
+    color: black;
+    margin-top: 70px;
+    margin-left: 70px;
+}
+
+.tex2 {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.img0 {
+    display: flex;
+}
+
+.wrap1 {
+    gap: 50px;
+    margin-top: 10px;
+    justify-content: center;
+    display: flex;
+
+}
+
+.text4 {
+    flex-direction: column;
+}
+
+.bookmate {
+    display: flex;
+    padding: 15px;
+    color: rgb(77, 77, 77);
+    background-color: rgb(233, 233, 233);
+    border-radius: 7px;
+    gap: 5px;
+}
+
+.stats {
+    margin-left: auto;
+    display: flex;
+    gap: 5px;
+    color: rgb(158, 158, 158);
+}
+
+.free1 {
+    background-color: rgb(220, 6, 240);
+    font-size: 25px;
+    border-radius: 17px;
+    margin-top: 30px;
+    padding: 6px;
+
+}
+
+@media (min-width:721px) and (max-width:2000px) {}

@@ -1,0 +1,166 @@
+* {
+    box-sizing: border-box;
+}
+
+.search {
+    width: 105%;
+    padding: 6px 10px;
+    border: 2px solid rgb(243, 243, 12);
+    border-radius: 7px;
+    outline: 0;
+}
+
+.search:focus-visible {
+    border: 2px solid rgb(20, 187, 34);
+}
+
+body {
+    background: rgb(15, 15, 15);
+    font-size: 16px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+input {
+    font-size: 13px;
+}
+
+.search-wrapper {
+    position: relative;
+    width: 650px;
+    height: 30px;
+
+}
+
+.search-clear {
+    position: absolute;
+    top: 6px;
+    right: -15px;
+    color: rgb(77, 78, 78);
+}
+
+.header {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+
+}
+
+.search-item {
+    border-radius: 20px;
+    position: relative;
+    background: #1a1919;
+    margin: 0 10px 15px 0;
+    top: -7px;
+    padding: -7px;
+}
+
+
+.search {
+    position: right 100px;
+}
+
+.lox {
+    position: absolute;
+    right: 30px;
+    top: 4px;
+    color: rgb(27, 85, 211);
+    font-size: 18px;
+}
+
+.kostya-chort {
+    position: absolute;
+    right: -10px;
+    top: 2px;
+    font-size: 20px;
+    color: rgb(19, 199, 88);
+}
+
+.kostya-kurwa {
+    position: absolute;
+    right: 0px;
+    top: 350px;
+    font-size: 30px;
+    color: rgb(112, 6, 211);
+}
+
+.website-icon {
+    position: absolute;
+    left: -40px;
+    width: 14px;
+    height: 14px;
+    background: rgb(255, 255, 255);
+    top: 27px;
+
+}
+
+
+.container {
+    width: 550px;
+    margin-left: 200px;
+}
+
+.ya-lox {
+    position: relative;
+    left: 50px;
+    color: aliceblue;
+    font-size: 20px;
+}
+
+.ya-lox {
+    position: relative;
+    left: 20px;
+    top: 10px;
+    height: 10px;
+}
+
+.links a {
+    color: rgb(255, 255, 255);
+    text-decoration: none;
+    padding: 12px 0px;
+    border-bottom: 2px solid transparent;
+}
+
+.links {
+    display: flex;
+    gap: 12px;
+    border-bottom: 1px solid rgb(99, 94, 94);
+    padding-left: 212px;
+    margin-bottom: 20px;
+    font-size: 12px;
+}
+
+.links .active,
+.links a:hover {
+    border-bottom-color: rgb(116, 113, 113);
+    border: 20px;
+}
+
+.solt {
+    color: rgb(90, 87, 87);
+
+}
+
+.page-title {
+    color: rgb(7, 151, 187);
+    margin-left: 12px;
+    padding: 9px;
+    font-size: auto;
+}
+
+.text {
+    color: rgb(255, 255, 255);
+    margin-left: 12px;
+    padding: 5px;
+    font-size: auto;
+    display: flex;
+}
+
+.search-item-content {
+    display: flex;
+
+}
+.flex {
+    display: flex;
+    flex-wrap: wrap;
+   
+}
