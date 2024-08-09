@@ -1,6 +1,5 @@
 .page {
     position: relative;
-    
 
 }
 
@@ -19,33 +18,46 @@
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
 
-.books1{
+.books1 {
     justify-content: center;
     display: flex;
     margin-top: 50px;
     gap: 20px;
+    position: relative;
+    font-weight: 700;
 }
 
-.bookmate1{
+.bookmate1 {
     display: flex;
-    padding: 15px;
+    flex-direction: column;
     color: rgb(77, 77, 77);
-    background-color: rgb(233, 233, 233);
+    
     border-radius: 7px;
     gap: 5px;
+    position: relative;
+    margin-top: 10px;
 }
 
-.bookmat{
+.bokk{
+    color: rgb(153, 153, 153);
+
+}
+
+.bookmat {
     display: inline-block;
+    position: relative;
 }
 
 .tag2 {
+    margin: -5px;
+  font-size: 15px;
     position: absolute;
     background-color: rgb(164, 11, 202);
     right: 70px;
-    border-radius: 12px;
+    border-radius: 37px;
     color: rgb(255, 255, 255);
-    padding: 3px;
+    padding:5px;
+    background-image: linear-gradient(90deg, #ff00ddc5, #003cffa4);
 }
 
 .tag3 {
@@ -116,10 +128,11 @@
 .images {
     transform: rotate(10deg);
     text-align: center;
-
+    background-image: linear-gradient(181deg, transparent, #fff);
 }
 
 .content {
+    background-image: linear-gradient(181deg, transparent, #fff);
     background-color: rgba(255, 253, 253, 0.8);
 }
 
@@ -157,8 +170,9 @@
 }
 
 .yand {
+    position: relative;
     display: flex;
-    text-align: center;
+    text-align: justify;
     justify-content: center;
     margin-top: 20px;
     gap: 10px;
@@ -166,31 +180,68 @@
 }
 
 .yandex3 {
+    position: relative;
+    padding: 20px;
     width: 20%;
-    border: 2px solid;
+    border: 4px solid;
     border-radius: 10px;
     border-color: rgb(230, 14, 230);
     background-color: white;
 }
 
-.book {
+.span{
+    position:absolute;
+    
+}
+
+.book3{
+ 
+   
 
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
 
+.book3{
+    gap: 10px;
+    position: relative;
+    display: flex;
+}
+
+
+
+.book4{
+   position: relative;
+}
+
 .book1 {
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+   
+}
+.bool{
+    position: absolute;
+    right: 20px;
+    font-size: 25px;
+    color: #ff02dd
+}
 
+.bool1{
+    position: absolute;
+    right:30px ;
+    font-size: 25px;
+    color: #ff02dd  
 }
 
 .book2 {
     color: rgb(167, 167, 167);
+    margin-top: 3px;
 }
 
 .yandex4 {
-    border: 2px solid;
+    position: relative;
+    padding: 20px;
+    border: 4px solid;
     border-radius: 10px;
-    border-color: rgb(168, 168, 168);
+    border-color: rgba(194, 194, 194, 0.479);
 }
 
 .free {
@@ -226,9 +277,9 @@
 
 .ban {
     position: relative;
-    margin-left: 120px;
+    margin-left: 150px;
     border-radius: 20px;
-    
+
     width: 80%;
     display: flex;
     font-family: var(--graphik-font);
@@ -254,7 +305,7 @@
     left: 100px;
 }
 
-.tex3 {}
+
 
 .play1 {
     justify-content: center;
@@ -318,13 +369,15 @@
 }
 
 .week {
+    position: relative;
     font-size: 30px;
     color: black;
     margin-top: 70px;
-    margin-left: 70px;
+    margin-left: 190px;
 }
 
 .tex2 {
+
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
 
@@ -337,7 +390,7 @@
     margin-top: 10px;
     justify-content: center;
     display: flex;
-
+position: relative;
 }
 
 .text4 {
@@ -351,6 +404,7 @@
     background-color: rgb(233, 233, 233);
     border-radius: 7px;
     gap: 5px;
+    font-weight: 700;
 }
 
 .stats {
@@ -362,11 +416,13 @@
 
 .free1 {
     background-color: rgb(220, 6, 240);
-    font-size: 25px;
-    border-radius: 17px;
+    font-size: 15px;
+    border-radius: 50px;
     margin-top: 30px;
-    padding: 6px;
-
+    padding:15px;
+    background-image: linear-gradient(90deg, #ff02dd, #003cff94);
+color: white;
+width: 200px;
+text-align: center;
+height: 15px;
 }
-
-@media (min-width:721px) and (max-width:2000px) {}
