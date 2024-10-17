@@ -1,0 +1,71 @@
+<!doctype html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport"
+          content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <script src="./main.js"></script>
+    <link rel="stylesheet" href="./style.css">
+    <title>Костя лох!</title>
+    <h1>Костя ест пушистых котят!</h1>
+    <p>Зачем он ест котят никто не знает.</p>
+<style>
+    .card{
+width: 200px;
+margin: auto;
+padding: 20px;
+background-color: rgb(216, 196, 19);
+border-radius: 20px;
+margin-bottom: 20px;
+    }
+    .card2{
+        width: 100px;
+    }
+li{ 
+color:red    ;
+}   
+body{
+}
+.a{
+    font-size: 30px;
+}
+</style>
+<body>
+    <img 
+    src="c:\Users\fishe\Desktop\photo_2024-01-31_17-37-36.jpg"
+    alt="Костя ест котят"
+    width= "400px"/>
+    <figcaption>
+Мелкий любит море и высокие горы, а еще любит жить с мужиками и дрочить писюнами
+<a
+    </figcaption>
+  </figure>
+<div class="card">
+<div class="a"> KOSTYA LOX 
+    
+
+</div>
+<p>далеко далеко за словесными горами коська дрочит писюнами</p>
+<ul>
+    <li>Костя далеко</li>
+    <li>за горами</li>
+    <li>дрочит писюнами</li>
+</ul>
+<p>далеко далеко за <I><b>словесными</b></i> горами коська <i>дрочит</i>  <b>писюнами</b></p>
+далеко далеко за словесными горами коська дрочит писюнами
+</div>
+<div class="card card2">
+<p>далеко далеко за словесными горами коська дрочит писюнами</p>
+<ul>
+    <li>Костя далеко</li>
+    <li>за горами</li>
+    <li>дрочит писюнами</li>
+</ul>
+<p>далеко далеко за <I><b>словесными</b></i> горами коська <i>дрочит</i>  <b>писюнами</b></p>
+далеко далеко за словесными горами коська дрочит писюнами
+</div>
+</body>
+</head>
+
+</html>

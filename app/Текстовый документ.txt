@@ -1,0 +1,94 @@
+	Hacker News new | past | comments | ask | show | jobs | submit	login
+1.	
+Nintendo is suing the creators of Switch emulator Yuzu (overkill.wtf)
+198 points by brandrick 1 hour ago | hide | 124 comments
+2.	
+Airfoil (ciechanow.ski)
+1299 points by todsacerdoti 5 hours ago | hide | 135 comments
+3.	
+SuperTux (github.com/supertux)
+113 points by floriangosse 2 hours ago | hide | 19 comments
+4.	
+All you need is Wide Events, not "Metrics, Logs and Traces" (isburmistrov.substack.com)
+32 points by talboren 1 hour ago | hide | 6 comments
+5.	
+Pure Programming Language (agraef.github.io)
+76 points by tosh 3 hours ago | hide | 6 comments
+6.	
+Does this 8088 code in the Leisure Suit Larry 2 game do anything? (retrocomputing.stackexchange.com)
+25 points by Luc 1 hour ago | hide | 1 comment
+7.	
+Testing the F-35C Tailhook (the-engi-nerd.github.io)
+267 points by sklargh 6 hours ago | hide | 109 comments
+8.	
+U.S. Launches Antitrust Investigation of UnitedHealth (wsj.com)
+53 points by moose_man 42 minutes ago | hide | 10 comments
+9.		Tesorio (YC S15) Is Hiring a Head of Infrastructure (100% Remote) (tesorio.com)
+1 hour ago | hide
+10.	
+Ant Geopolitics (aeon.co)
+213 points by romaintailhurat 8 hours ago | hide | 67 comments
+11.	
+The /unblock API from Browserless: dodging bot detection as a service (browserless.io)
+92 points by keepamovin 4 hours ago | hide | 80 comments
+12.	
+I turned my open-source project into a full-time business (emailengine.app)
+498 points by andris9 12 hours ago | hide | 193 comments
+13.	
+SpaceX discloses cause of Starship anomalies as it clears an FAA hurdle (arstechnica.com)
+176 points by rbanffy 9 hours ago | hide | 223 comments
+14.	
+Blazer: Business intelligence made simple (github.com/ankane)
+144 points by tosh 8 hours ago | hide | 28 comments
+15.	
+Dracula's Biggest Mistake (ayjay.org)
+38 points by chesterfield 4 hours ago | hide | 38 comments
+16.	
+Synthetic data generation for tabular data (github.com/sdv-dev)
+28 points by skadamat 3 hours ago | hide | 4 comments
+17.	
+Show HN: Mountaineer – Webapps in Python and React (github.com/piercefreeman)
+90 points by icyfox 7 hours ago | hide | 35 comments
+18.	
+Why time seems to pass faster as we age (invertedpassion.com)
+236 points by paraschopra 12 hours ago | hide | 167 comments
+19.	
+Show HN: I built an open-source data copy tool called ingestr (github.com/bruin-data)
+91 points by karakanb 7 hours ago | hide | 37 comments
+20.	
+Consider the Pawpaw (beltmag.com)
+66 points by PaulHoule 8 hours ago | hide | 49 comments
+21.	
+Cormac McCarthy's Sideline: Freelance copy editor (millersbookreview.com)
+44 points by samclemens 2 hours ago | hide | 44 comments
+22.	
+Apple cancels work on electric car, shifts team to generative AI (bloomberg.com)
+481 points by coloneltcb 3 hours ago | hide | 523 comments
+23.	
+Social Media First Amendment Cases (lawfaremedia.org)
+61 points by Mjadams 8 hours ago | hide | 160 comments
+24.	
+Botanical gardens can cool city air by an average of 5°C (newatlas.com)
+291 points by Brajeshwar 8 hours ago | hide | 114 comments
+25.	
+A retrospective on Requests (stapletoncordas.co)
+96 points by zdw 12 hours ago | hide | 25 comments
+26.	
+Anomalous cooling of bosons by dimensional reduction (science.org)
+9 points by PaulHoule 3 hours ago | hide | discuss
+27.	
+Canadian 'online harms' bill to make online hate punishable up to life in prison (nationalpost.com)
+4 points by pr337h4m 3 minutes ago | hide | 1 comment
+28.	
+Boeing missing key elements of safety culture: FAA report (ainonline.com)
+308 points by elorant 8 hours ago | hide | 259 comments
+29.	
+Herbgrind analyzes binaries to find inaccurate floating point expressions (ucsd.edu)
+53 points by bshanks 8 hours ago | hide | 9 comments
+30.	
+Software Infrastructure 2.0: A Wishlist (2021) (erikbern.com)
+84 points by whoiskatrin 11 hours ago | hide | 63 comments
+More
+
+
+Guidelines | FAQ | Lists | API | Security | Legal | Apply to YC | Contact

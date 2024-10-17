@@ -1,0 +1,300 @@
+* {
+    box-sizing: border-box;
+}
+
+.page {
+    display: flex;
+    gap: 100px;
+   min-width: 0px;
+    align-items: baseline;
+    margin: 20px;
+}
+
+.left {
+   
+    position: relative;
+    margin-top: 20px;
+    margin-left: 30px;
+}
+
+.translate {
+    display: flex;
+    margin-left: 20px;
+    position: relative;
+    font-size: 22px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.text2 {
+    position: relative;
+    line-height: 40px;
+    display: flex;
+
+    padding: 20px;
+    align-items: center;
+    flex-flow: row nowrap;
+}
+
+.menu-item2 {
+    display: none;
+}
+
+.menu-item {
+    margin-bottom: 15px;
+    font-family: Arial, Helvetica, sans-serif;
+    text-transform: lowercase;
+    display: flex;
+    align-items: center;
+    text-decoration: none;
+    color: rgb(85, 85, 85);
+
+}
+
+.tag {
+    text-decoration: none;
+    color: rgb(85, 85, 85);
+}
+
+
+.tag2 {
+    color: #4b4a4a;
+}
+
+.tag3 {
+    color: #4b4a4a;
+}
+.header1{
+    display: flex;
+
+}
+.icon {
+    position: absolute;
+    left: 50px;
+    font-size: 35px;
+    top: 770px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+}
+
+.icon2 {
+    position:absolute;
+    left: 20px;    
+   font-size: 20px;
+  margin: -22px;
+}
+
+.icon3{
+    position: absolute;
+    font-size: 20px;
+    left: 70px;
+    margin: -22px;
+}
+
+.icon4 {
+   position: absolute;
+right: 40px;
+font-size: 25px;
+margin: -22px;
+}
+
+
+
+.buttons {
+    display: flex;
+    position: relative;
+}
+
+.button {
+    background-color: rgb(251 251 251);
+    border: none;
+    padding: 20px;
+    width: 50%;
+    border-radius: 10px;
+    text-transform: lowercase;
+}
+
+.equal {
+    position: absolute;
+    font-size: 30px;
+    left: 50%;
+    margin-left: -7px;
+    top: 10px;
+}
+
+.container {
+    display: flex;
+    position: relative;
+
+}
+
+.container2 {
+    display: inline-block;
+    position: relative;
+    border-radius: 10px;
+    padding: 18px;
+    margin: 5px;
+    padding: 17px;
+    background-color: #f3f7fa;
+    margin-top: 14px;
+    align-items: center;
+}
+
+.tab {
+
+    height: 3%;
+    align-items: center;
+    display: inline-block;
+    position: absolute;
+    margin-top: 15px;
+
+    border-radius: 10px;
+    font-size: 18px;
+    padding: 19px;
+    background-color: #f3f7fa;
+    ;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+}
+
+.container3 {
+    display: flex;
+    position: relative;
+    width: 50%;
+}
+
+.cont {
+    position: relative;
+    display: flex;
+    width: 100%;
+
+    box-sizing: border-box;
+}
+
+.search {
+    width: 100%;
+
+    position: relative;
+    height: 200px;
+    border-radius: 10px;
+    border: none;
+    box-sizing: border-box;
+}
+
+.search2 {
+    background-color: rgb(245 245 245);
+    width: 100%;
+
+}
+
+.history {
+    margin-top: 200px;
+    position: relative;
+    font-size: 25px;
+}
+
+.history {
+
+    margin-top: 30px;
+    position: relative;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.footer {
+    display: flex;
+    gap: 30px;
+    margin-top: 410px;
+
+}
+
+.button2 {
+    position: absolute;
+    bottom: 20px;
+    left: 20px;
+}
+
+.button3 {
+    position: absolute;
+
+    right: 30px;
+    bottom: 20px;
+}
+
+@media  (min-width:1001px) and (max-width:2000px )      {   
+.header1{
+    display: none;
+}
+
+}
+@media (max-width: 1000px) {
+    .page {
+        
+    }
+
+    .left {
+        
+        width: 30px;
+    }
+
+    .right {
+      display: block;
+    }
+    .header1{
+        display: none;
+    }
+
+
+
+    .translate {
+        display: none;
+    }
+}
+
+@media (min-width:550px) and (max-width:999px)  
+ {
+    .page {
+     
+    }
+.header1{
+    display: none;
+}
+    .left {
+        
+    }
+
+    .tag0 {
+        display: none;
+        
+    }
+
+    .icon {
+        top: 870px;
+        margin-left: -70px;
+    }
+    
+}
+@media (min-width:200px) and (max-width:549px){
+    .page{
+        display: block;
+    }
+    .search2 {
+        background-color: #ebebeb;
+        display:block;
+    }
+    .header1{
+        display: block;
+    }
+
+.menu-item{
+    display: block;
+}
+.left{
+    display: none;
+}
+.button3{
+    display: none;
+}
+.container{
+    display: block;
+    width: 100%;
+}
+}

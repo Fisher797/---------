@@ -1,0 +1,454 @@
+body,html{
+    min-width: 1042px;
+}
+.page {
+    position: relative;
+
+}
+
+.sub {
+    display: flex;
+    margin: 20px;
+
+}
+
+.tag0 {
+    display: flex;
+    gap: 15px;
+}
+
+.tag {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.books1 {
+    justify-content: center;
+    display: flex;
+    margin-top: 50px;
+    gap: 20px;
+    position: relative;
+    font-weight: 700;
+}
+
+.bookmate1 {
+    display: flex;
+    flex-direction: column;
+    color: rgb(77, 77, 77);
+    
+    border-radius: 7px;
+    gap: 5px;
+    position: relative;
+    margin-top: 10px;
+}
+
+.bokk{
+    color: rgb(153, 153, 153);
+
+}
+
+.bookmat {
+    display: inline-block;
+    position: relative;
+}
+
+.tag2 {
+    margin: -5px;
+  font-size: 15px;
+    position: absolute;
+    background-color: rgb(164, 11, 202);
+    right: 70px;
+    border-radius: 37px;
+    color: rgb(255, 255, 255);
+    padding:5px;
+    background-image: linear-gradient(90deg, #ff00ddc5, #003cffa4);
+}
+
+.tag3 {
+    position: absolute;
+    right: 14px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.tagfree {
+    text-align: center;
+}
+
+.yandex {
+    padding-top: 50px;
+    font-size: 20px;
+    gap: 20px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.books {
+    gap: 10px;
+    display: flex;
+    position: relative;
+    justify-content: center;
+}
+
+.images2 {
+    justify-content: center;
+    gap: 50px;
+
+    position: relative;
+}
+
+.images3 {
+    display: flex;
+    justify-content: center;
+    gap: 50px;
+}
+
+.wrap {
+    margin-top: 100px;
+    justify-content: center;
+}
+
+.yandex1 {
+    text-align: center;
+    font-size: 65px;
+    margin-top: 30px;
+    bottom: 0px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.background {
+    position: absolute;
+    z-index: -1;
+    top: -200px;
+    left: -200px;
+    right: -200px;
+
+}
+
+.wrapper {
+    position: relative;
+    overflow: hidden;
+
+}
+
+.images {
+    transform: rotate(10deg);
+    text-align: center;
+    background-image: linear-gradient(181deg, transparent, #fff);
+}
+
+.content {
+    background-image: linear-gradient(181deg, transparent, #fff);
+    background-color: rgba(255, 253, 253, 0.8);
+}
+
+.yandex2 {
+
+    color: rgb(11, 114, 231);
+    font-size: 50px;
+    margin-top: 20px;
+    position: relative;
+}
+
+.yandex4 {
+    width: 20%;
+    background-color: white;
+    border-color: rgb(148, 146, 146);
+}
+
+.tab {
+    display: flex;
+    margin-top: 50px
+}
+
+.tag4 {
+    color: rgb(110, 110, 110);
+    margin-left: 750px;
+    position: relative;
+}
+
+.tag5 {
+    position: absolute;
+    right: 30px;
+    display: flex;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+}
+
+.yand {
+    position: relative;
+    display: flex;
+    text-align: justify;
+    justify-content: center;
+    margin-top: 20px;
+    gap: 10px;
+
+}
+
+.yandex3 {
+    position: relative;
+    padding: 20px;
+    width: 20%;
+    border: 4px solid;
+    border-radius: 10px;
+    border-color: rgb(230, 14, 230);
+    background-color: white;
+}
+
+.span{
+    position:absolute;
+    
+}
+
+.book3{
+ 
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.book3{
+    gap: 10px;
+    position: relative;
+    display: flex;
+}
+
+
+.book4{
+   position: relative;
+}
+
+.book1 {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+   
+}
+.bool{
+    margin: -15px;
+    position: absolute;
+    right: 20px;
+    font-size: 25px;
+    color: #ff02dd
+}
+
+.bool1{
+    margin: -15px;
+    position: absolute;
+    right:30px ;
+    font-size: 25px;
+    color: #ff02dd  
+}
+
+.book2 {
+    color: rgb(167, 167, 167);
+    margin-top: 3px;
+}
+
+.yandex4 {
+    position: relative;
+    padding: 20px;
+    border: 4px solid;
+    border-radius: 10px;
+    border-color: rgba(194, 194, 194, 0.479);
+}
+
+.free {
+    display: flex;
+    justify-content: center;
+
+}
+
+.text {
+    font-size: 34px;
+    padding: 3px;
+
+    margin-top: 90px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.text2 {
+    padding: 6px;
+}
+
+.text5 {
+    text-align: center;
+    font-size: 12px;
+    margin-top: 12px;
+    color: rgb(143, 143, 143);
+}
+
+.ban {
+    height: 354px;
+    position: relative;
+    margin: auto;
+    border-radius: 20px;
+    display: flex;
+    font-family: var(--graphik-font);
+   width: 1256px;
+   max-width: 95%;
+    margin-top: 100px;
+    background-color: rgb(240, 240, 240);
+}
+
+.play {
+    position: relative;
+    display: flex;
+    gap: 15px;
+    background-color: rgb(253, 253, 253);
+    border-radius: 10px;
+    padding: 2px;
+    justify-content: center;
+}
+
+.banner {
+   position: relative;
+    text-align: center;
+   z-index: 1;
+   margin-left: 70px;
+}
+
+
+.play1 {
+    justify-content: center;
+    margin-top: 7px;
+    display: flex;
+    gap: 15px;
+    background-color: rgb(253, 253, 253);
+    border-radius: 10px;
+    padding: 2px;
+}
+
+.google {
+    gap: 10px;
+    right: 50px;
+    position: absolute;
+    top: 110px;
+}
+
+.img1 {
+    border-radius: 5px;
+    display: flex;
+}
+
+.imag{
+    z-index: 0;
+    position: absolute;
+   left: 50%;
+   transform: translate(-50%, 0%);
+}
+
+
+
+
+.imgn {
+    position: absolute;
+    right: 265px;
+    margin: -57px;
+    
+}
+
+.angl {
+    display: flex;
+    position: relative;
+
+}
+
+.caption {
+    position: absolute;
+    top: 90px;
+    color: white;
+    text-align: center;
+    font-size: 30px;
+    justify-content: center;
+    display: flex;
+    right: 40px;
+}
+
+.texta {
+    display: flex;
+    position: absolute;
+    z-index: 1;
+    color: rgb(231, 231, 231);
+    font-size: 30px;
+    width: 100%;
+}
+
+.texta1 {
+    position: absolute;
+    left: -250px;
+    top: -100px;
+    text-align: center;
+}
+
+
+.week {
+    position: relative;
+    font-size: 30px;
+    color: black;
+    margin: -10px;
+}
+
+.tex2 {
+
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.img0 {
+    display: flex;
+}
+
+.wrap1 {
+    gap: 50px;
+    margin-top: 50px;
+    justify-content: center;
+    display: flex;
+position: relative;
+overflow-x: auto;
+}
+
+.text4 {
+    flex-direction: column;
+}
+
+.bookmate {
+    display: flex;
+    padding: 15px;
+    color: rgb(77, 77, 77);
+    background-color: rgb(233, 233, 233);
+    border-radius: 7px;
+    gap: 5px;
+    font-weight: 700;
+}
+
+.stats {
+    margin-left: auto;
+    display: flex;
+    gap: 5px;
+    color: rgb(158, 158, 158);
+}
+
+.over{
+    display: grid;
+    overflow-x: auto;
+}
+
+.free1 {
+    background-color: rgb(220, 6, 240);
+    font-size: 15px;
+    border-radius: 50px;
+    margin-top: 30px;
+    padding:15px;
+    background-image: linear-gradient(90deg, #ff02dd, #003cff94);
+color: white;
+width: 200px;
+text-align: center;
+height: 15px;
+}
+
+@media (min-width:350px) and (max-width:1499px)  
+ {
+    .page {
+     display: block;
+    }
+
+   .ban{
+    
+    position: relative;
+   }
+    
+    
+}
